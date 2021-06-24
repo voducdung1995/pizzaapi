@@ -1,0 +1,29 @@
+[
+    {
+      "User": "Max",
+      "Crust": "THIN",
+      "Flavor": "Hawaii",
+      "Order_ID": 1,
+      "Size": "M",
+      "Table_No": 10000,
+      "Timestamp": "2018-12-12T13:42:13.704148+00:00"
+    },
+    {
+      "User": "Max",
+      "Crust": "THIN",
+      "Flavor": "Regina",
+      "Order_ID": 2,
+      "Size": "L",
+      "Table_No": 10000,
+      "Timestamp": "2018-12-12T13:42:13.704148+00:00"
+    },
+    {
+        "User": "Laura",
+        "Crust": "THIN",
+        "Flavor": "Quattro-Formaggi",
+        "Order_ID": 3,
+        "Size": "L",
+        "Table_No": 10000,
+        "Timestamp": "2018-12-12T13:42:13.704148+00:00"
+      }
+]
